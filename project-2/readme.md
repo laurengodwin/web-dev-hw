@@ -1,0 +1,3 @@
+<head>
+<title>ReadMe</title>
+<p>This assignment wasn't too difficult for me, coding wise. I am still having difficulty using atom, github desktop, and github. Using those all together is still confusing to me. I liked making this project though. It was a lot of fun.</p>
