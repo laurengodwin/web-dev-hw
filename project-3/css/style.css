@@ -24,7 +24,8 @@ ul {
 }
 li a {
     display: block;
-    color: lightgrey;
+    background-color: maroon;
+    color: white;
     padding: 8px 8px;
     text-decoration: none;
 }
