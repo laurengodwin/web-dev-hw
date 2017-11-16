@@ -9,21 +9,13 @@ html {
 div#fixedheader {
 	top:20px;
 	left:20px;
-	width:95%;
+  bottom: 20px;
+  right: 20px;
+	width: auto;
 	color: maroon;
 	background:grey;
-    opacity: 0.5;
 	padding:20px;
 }
 
-h1 {
-  display: center;
-  color: black
-  margin-left: auto;
-  border: 5px solid maroon;
-  padding: 25px;
-  width: 50%;
-  text-align: center;
-}
 </style>
 </head>
