@@ -1,9 +1,19 @@
 <head>
 <style>
 
-body {
-  background-color: white;
-  font-family: 'Quicksand', sans-serif;
+html {
+    background: white;
+    color: black;
+    font: 16px 'Trebuchet MS', Arial, sans-serif;
+}
+div#fixedheader {
+	top:20px;
+	left:20px;
+	width:95%;
+	color: maroon;
+	background:grey;
+    opacity: 0.5;
+	padding:20px;
 }
 
 h1 {
