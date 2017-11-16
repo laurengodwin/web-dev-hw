@@ -9,7 +9,7 @@ body {
 h1 {
   display: center;
   color: black
-  margin-left: 20px;
+  margin-left: auto;
   border: 5px solid maroon;
   padding: 25px;
   width: 50%;
