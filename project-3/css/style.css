@@ -1,11 +1,5 @@
 <head>
 <style>
-
-body {
-    background: grey;
-    color: black;
-    font: 16px 'Trebuchet MS', Arial, sans-serif;
-}
 div#fixedheader {
 	top:20px;
 	left:20px;
@@ -16,6 +10,13 @@ div#fixedheader {
 	background:lightgrey;
 	padding:20px;
 }
+
+body {
+    background: grey;
+    color: black;
+    font-family: 'El Messiri', sans-serif;
+}
+
 
 </style>
 </head>
