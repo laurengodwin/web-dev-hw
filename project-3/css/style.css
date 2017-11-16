@@ -1,5 +1,8 @@
+<head>
+<style>
+
 body {
-  background-color: grey;
+  background-color: white;
   font-family: 'Quicksand', sans-serif;
 }
 
@@ -7,3 +10,9 @@ h1 {
   color: black
   margin-left: 20px;
 }
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="about.html"> About</a></li>
