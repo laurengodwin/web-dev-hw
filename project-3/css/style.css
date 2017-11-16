@@ -27,11 +27,6 @@ li a {
     padding: 8px 8px;
     text-decoration: none;
 }
-li a.active {
-    background-color: white;
-    opacity: 0.7;
-    color: black;
-}
 li a:hover:not(.active) {
     background-color: black;
     color: white;
