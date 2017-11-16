@@ -2,7 +2,7 @@
 <style>
 
 html {
-    background: white;
+    background: grey;
     color: black;
     font: 16px 'Trebuchet MS', Arial, sans-serif;
 }
@@ -13,7 +13,7 @@ div#fixedheader {
   right: 20px;
 	width: auto;
 	color: maroon;
-	background:grey;
+	background:lightgrey;
 	padding:20px;
 }
 
