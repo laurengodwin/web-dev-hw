@@ -6,14 +6,12 @@ div.fixedheader {
   bottom: 20px;
   right: 20px;
 	width: auto;
-	color: maroon;
-	background:lightgrey;
 	padding:20px;
 }
 
 h1 {
-    background: grey;
-    color: black;
+    background: lightgrey;
+    color: maroon;
     font-family: 'El Messiri', sans-serif;
 }
 ul {
