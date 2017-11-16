@@ -28,9 +28,9 @@ li a {
     text-decoration: none;
 }
 li a.active {
-    background-color: maroon;
+    background-color: white;
     opacity: 0.7;
-    color: white;
+    color: black;
 }
 li a:hover:not(.active) {
     background-color: black;
