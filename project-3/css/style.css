@@ -1,6 +1,6 @@
 <head>
 <style>
-div#fixedheader {
+div.fixedheader {
 	top:20px;
 	left:20px;
   bottom: 20px;
@@ -11,10 +11,31 @@ div#fixedheader {
 	padding:20px;
 }
 
-body {
+h1 {
     background: grey;
     color: black;
     font-family: 'El Messiri', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+}
+li a {
+    display: block;
+    color: white;
+    padding: 8px 8px;
+    text-decoration: none;
+}
+li a.active {
+    background-color: maroon;
+    opacity: 0.7;
+    color: white;
+}
+li a:hover:not(.active) {
+    background-color: black;
+    color: white;
 }
 
 
