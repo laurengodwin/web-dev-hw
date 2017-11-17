@@ -1,5 +1,13 @@
 <head>
 <style>
+div.fixedheader {
+	top:20px;
+	left:20px;
+  bottom: 20px;
+  right: 20px;
+	width: auto;
+	padding:20px;
+}
 
 html {
     background: lightgrey;
