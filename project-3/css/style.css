@@ -1,6 +1,6 @@
 <head>
 <style>
-div.fixedheader {
+H1 {
 	top:20px;
 	left:20px;
   bottom: 20px;
@@ -10,7 +10,7 @@ div.fixedheader {
 	font-family: 'Limelight', cursive;
 }
 
-body {
+P {
     background: lightgrey;
     color: maroon;
     font-family: 'El Messiri', sans-serif;
