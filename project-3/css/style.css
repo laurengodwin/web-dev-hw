@@ -1,12 +1,13 @@
 <head>
 <style>
 header {
-	font-family: 'El Messiri', semi-bold;
+	font-family: 'El Messiri', sans-serif;
 	font-size: 48px;
 	text-shadow: 4px 4px 4px #aaa;
 }
 
 body {
+		font-family: 'Limelight', cursive;
     background: lightgrey;
     color: maroon;
 
