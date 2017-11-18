@@ -5,3 +5,4 @@
 <p>Kyle Houghtaling is a well known author for Sentinel's volleyball team. He has interviewed my sister many times. Everytime he does an article on Sentinel it is packed full of stats.</p>
 <p>Some possible photos that I will use (Elsa is number 1):</p>
 <img src="images/block.jpg" width="200px" height="250px"><img src="images/state1.png" width="350px" height="200px">
+<p>I had a lot of fun with this assignment once I figured out the fonts.css page. I really struggled with that and making 2 fonts work at once. But I figured it out and I am really proud of how my cite turned out.</p>
