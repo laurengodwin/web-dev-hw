@@ -13,12 +13,13 @@ header {
 }
 
 body {
-		font-family: 'Limelight', cursive;
+	font-family: 'El Messiri', sans-serif;
     background: lightgrey;
     color: maroon;
 }
 
 ul {
+		font-family: 'Limelight', cursive;
     list-style-type: none;
     margin: 0;
     padding: 0;
