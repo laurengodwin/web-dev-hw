@@ -1,6 +1,10 @@
 
 <head>
 	<style>
+	* {
+		font-family: 'Limelight', cursive;
+		font-family: 'El Messiri', sans-serif;
+	}
 header {
 	font-family: 'El Messiri', sans-serif;
 	font-size: 48px;
