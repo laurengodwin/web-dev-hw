@@ -5,10 +5,14 @@
 		font-family: 'Limelight', cursive;
 		font-family: 'El Messiri', sans-serif;
 	}
-header {
+h1 {
 	font-family: 'El Messiri', sans-serif;
 	font-size: 30px;
 	text-shadow: 4px 4px 4px #aaa;
+}
+
+h2 {
+	font-family: 'Limelight', cursive;
 }
 
 body {
